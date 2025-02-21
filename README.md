@@ -6,4 +6,6 @@ is the cloth input then it checks how the cloth looks on the model the user can 
 we are still working on it on this we used "SEGMiND TRY ON MODEL" WITH API KEY 
 we try making some more better for visualization of the result
 
+https://drive.google.com/file/d/1XnpPB9DqEalpw5QdT4eWYye3OH6HnBJu/view?usp=drive_link
+
 
